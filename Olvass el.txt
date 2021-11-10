@@ -1,0 +1,2 @@
+npm i mongoose @nestjs/mongoose - a @nestjs/mongoose arra kell, hogy mongoose-t használhassunk ts-el és, hogy könnyebb legyen az injection
+npm i @types/mongoose - a Product modellünkek leszármaztathatjuk ebből a types/mongoose-ból, és könnyebb lesz használni az adatokat
